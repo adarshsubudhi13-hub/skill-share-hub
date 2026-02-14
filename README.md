@@ -1,5 +1,7 @@
 # SkillSwap - Peer-to-Peer Knowledge Exchange Platform
 
+**🔴 LIVE DEMO:** [**https://skill-share-hub-chi.vercel.app/**](https://skill-share-hub-chi.vercel.app/)
+
 SkillSwap is a premium web application that connects people who want to learn new skills with those who can teach them. No money is involved—users simply trade their expertise.
 
 ## 🚀 Features
